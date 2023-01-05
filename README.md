@@ -1,2 +1,2 @@
 # DS-Labdyn10
-# It is a markdown files in this repository
+# It is a markdown file in this repository
